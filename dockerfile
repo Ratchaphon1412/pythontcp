@@ -5,4 +5,4 @@ COPY . /app
 WORKDIR /app
 
 # Add your instructions here
-CMD ["python", "server.py"]
+CMD ["python3", "server.py"]
